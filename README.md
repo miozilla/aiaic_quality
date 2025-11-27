@@ -18,3 +18,8 @@ aiaic_quality : Agent Quality # Evaluation strategy # Logging # Tracing # Visibi
 ![aiaic_quality004.png](./media/aiaic_quality004.png)
 
 ![aiaic_quality005.png](./media/aiaic_quality005.png)
+
+
+[Agent Observability](./src/4a_observe)
+
+[Agent Evaluation](./src/4b_eval)
